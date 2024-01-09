@@ -102,5 +102,18 @@ This document outlines the key topics discussed on various days during a learnin
 - Generic Method
 - Generic Constructor
 
+## Day 21
+- Wildcard in Java Generics
+- Unbounded Wildcards
+- Upper Bounded Wildcards
+- Lower Bounded Wildcards
+- HW
+
+## Day 22
+- Stream In Java
+- Stream Operations
+- Stream Operations HW
+
+
 
 
