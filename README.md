@@ -114,6 +114,12 @@ This document outlines the key topics discussed on various days during a learnin
 - Stream Operations
 - Stream Operations HW
 
-
+## Day 23
+- Lamda Function 
+- zero Parameter
+- one parameter 
+- multple parameter 
+- lambda function with Return type
+- HW
 
 
