@@ -122,4 +122,10 @@ This document outlines the key topics discussed on various days during a learnin
 - lambda function with Return type
 - HW
 
+## Day 24
+- Introduction to Spring Framework
+- Advantages 
+- Dependency Injection
+- Coupling
+
 
