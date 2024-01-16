@@ -128,4 +128,14 @@ This document outlines the key topics discussed on various days during a learnin
 - Dependency Injection
 - Coupling
 
+## Day 25
+- Spring
+- Beans
+- Spring Initialization || Contener
+- Example 
+- record
+- DF BW record && Class 
+
+
+
 
